@@ -1,16 +1,15 @@
-# mealss_app
+Meals App
+The Meals App is a Flutter application that lets users browse meal categories and explore specific meals. It includes a vegetarian filter and provides smooth category navigation.
 
-A new Flutter project.
+Features:-
+Category Selection: Browse and select meal categories.
+Meal Filtering: Toggle a vegetarian filter via the drawer.
+Drawer Navigation: Navigate between screens and enable filters.
+Smooth UI: Grid layout with rounded cards for a clean look.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Structure:-
+Category Screen: Main screen for selecting meal categories.
+Meals Screen: Displays meals filtered by category and preference.
+Main Drawer: Includes navigation and filter options.
+Dummy Data: Meals and categories for demonstration.
