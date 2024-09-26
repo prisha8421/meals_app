@@ -1,4 +1,4 @@
-Meals App
+Meals App:-
 The Meals App is a Flutter application that lets users browse meal categories and explore specific meals. It includes a vegetarian filter and provides smooth category navigation.
 
 Features:-
